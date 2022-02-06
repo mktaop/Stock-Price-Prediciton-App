@@ -1,1 +1,4 @@
-Required:TensorFlowSklearn
+
+tensorflow==2.6.0
+streamlit==1.5.0
+
