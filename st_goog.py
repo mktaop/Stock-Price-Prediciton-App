@@ -15,7 +15,7 @@ from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 #from tensorflow.keras import layers
 #from tensorflow.keras import models,utils
-#from tensorflow.keras.models import load_model
+from tensorflow.keras.models import load_model
 #from keras.models import Sequential
 #from keras.layers import Dense
 #from keras.layers import LSTM
